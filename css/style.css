@@ -43,6 +43,11 @@
     gap: 1rem;
     justify-content: space-between; /* Align items to both ends */
   }
+
+.controller{
+    display: flex;
+    flex-direction: row;
+  }
   
   .array-inputs p {
     margin-right: 1rem;
